@@ -1,5 +1,7 @@
-#Geleyi: How We'd Walk this Safarian Beauty ![This African Beauty](http://profile.ak.fbcdn.net/hprofile-ak-snc4/27521_110780515631174_7512_q.jpg)
- 
+#Geleyi: How We'd Walk this Safarian Beauty 
+
+![This African Beauty](http://profile.ak.fbcdn.net/hprofile-ak-snc4/27521_110780515631174_7512_q.jpg)
+
 ##1. Introduction
 
 ####Purpose 
