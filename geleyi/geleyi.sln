@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geleyi", "geleyi.csproj", "{2F284D34-EDFE-45BE-B521-6E95066DCAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geleyi.Tests", "..\geleyi.Tests\geleyi.Tests.csproj", "{CCBAAB8F-6179-45AF-A6CD-39CD25611BE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F284D34-EDFE-45BE-B521-6E95066DCAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F284D34-EDFE-45BE-B521-6E95066DCAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F284D34-EDFE-45BE-B521-6E95066DCAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F284D34-EDFE-45BE-B521-6E95066DCAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBAAB8F-6179-45AF-A6CD-39CD25611BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBAAB8F-6179-45AF-A6CD-39CD25611BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBAAB8F-6179-45AF-A6CD-39CD25611BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBAAB8F-6179-45AF-A6CD-39CD25611BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
